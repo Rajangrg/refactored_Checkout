@@ -1,0 +1,29 @@
+[
+  {
+    "priceBarCode": "A",
+    "pricePerUnit": {
+      "1": 50,
+      "3": 130
+    }
+  },
+  {
+    "priceBarCode": "B",
+    "pricePerUnit": {
+      "1": 30,
+      "2": 45
+    }
+  },
+  {
+    "priceBarCode": "C",
+    "pricePerUnit": {
+      "1": 20
+
+    }
+  },
+  {
+    "priceBarCode": "D",
+    "pricePerUnit": {
+      "1": 15
+    }
+  }
+]
